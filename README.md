@@ -6,7 +6,7 @@
 
 ## 📖 Table of Contents
 
-1. [What is OpenTofu?](#what-is-opentofu)
+1. [What is OpenTofu?](## what-is-OpenTofu)
 2. [Why OpenTofu Exists (History)](#why-opentofu-exists-history)
 3. [Benefits of OpenTofu](#benefits-of-opentofu)
 4. [Installing OpenTofu](#installing-opentofu)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧩 What is OpenTofu?
+## What is OpenTofu?
 
 **OpenTofu** is an open-source Infrastructure as Code (IaC) tool that allows you to define and provision infrastructure using a declarative configuration language (HCL).
 
