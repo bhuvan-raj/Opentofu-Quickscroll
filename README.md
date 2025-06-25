@@ -34,7 +34,7 @@
 
 ---
 
-## 🕰️ Why OpenTofu Exists (History)
+## Why OpenTofu Exists (History)
 
 | Date            | Event                                                               |
 | --------------- | ------------------------------------------------------------------- |
