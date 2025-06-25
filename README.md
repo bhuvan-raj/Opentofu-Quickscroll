@@ -1,3 +1,9 @@
+<img src="https://github.com/bhuvan-raj/Opentofu-Quickscroll/blob/main/opentofu.png" alt="Banner" />
+
+
+
+
+
 ## 📖 Table of Contents
 
 1. [What is OpenTofu?](#what-is-opentofu)
