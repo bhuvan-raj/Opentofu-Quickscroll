@@ -6,7 +6,7 @@
 
 ## 📖 Table of Contents
 
-1. [What is OpenTofu?](## what-is-OpenTofu)
+1. [What is OpenTofu?](#what-is-OpenTofu)
 2. [Why OpenTofu Exists (History)](#why-opentofu-exists-history)
 3. [Benefits of OpenTofu](#benefits-of-opentofu)
 4. [Installing OpenTofu](#installing-opentofu)
