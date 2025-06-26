@@ -45,7 +45,7 @@
 
 ---
 
-## ✅ Benefits of OpenTofu
+##  Benefits of OpenTofu
 
 * **Truly Open Source**: Uses permissive MPL 2.0 license
 * **100% Terraform Compatible**: Same HCL syntax, providers, modules
@@ -79,7 +79,7 @@
 
 
 
-## 🚀 First OpenTofu Project
+##  First OpenTofu Project
 
 ### File: `main.tf`
 
@@ -107,7 +107,7 @@ tofu apply
 
 ---
 
-## 📚 Basic Concepts
+##  Basic Concepts
 
 | Concept    | Description                             |
 | ---------- | --------------------------------------- |
@@ -120,7 +120,7 @@ tofu apply
 
 ---
 
-## 🗂️ State Management
+## 🗂 State Management
 
 * Stores infrastructure status in `.tfstate`
 * Local by default, can be moved to cloud (S3 + DynamoDB)
@@ -140,7 +140,7 @@ terraform {
 
 ---
 
-## 🔌 Using Providers
+##  Using Providers
 
 Providers are plugins that manage specific APIs (e.g., AWS, Azure).
 
@@ -154,7 +154,7 @@ provider "aws" {
 
 ---
 
-## 📦 Modules in OpenTofu
+##  Modules in OpenTofu
 
 ```hcl
 module "vpc" {
@@ -171,7 +171,7 @@ module "vpc" {
 
 ---
 
-## 🔠 Variables and Outputs
+##  Variables and Outputs
 
 ### `variables.tf`
 
@@ -192,14 +192,14 @@ output "instance_id" {
 
 ---
 
-## ☁️ Remote Backend Configuration
+##  Remote Backend Configuration
 
 * Enables shared state and collaboration
 * Supported backends: AWS S3, Azure Blob, GCS, etc.
 
 ---
 
-## 🧠 Advanced Topics
+##  Advanced Topics
 
 ### Looping with `for_each`:
 
@@ -232,7 +232,7 @@ resource "aws_security_group" "example" {
 
 ---
 
-## 🔄 OpenTofu vs Terraform
+##  OpenTofu vs Terraform
 
 | Feature           | OpenTofu         | Terraform (Post-Aug 2023) |
 | ----------------- | ---------------- | ------------------------- |
@@ -243,7 +243,7 @@ resource "aws_security_group" "example" {
 
 ---
 
-## 👥 Community and Contribution
+##  Community and Contribution
 
 * GitHub: [https://github.com/opentofu/opentofu](https://github.com/opentofu/opentofu)
 * Docs: [https://opentofu.org/docs/](https://opentofu.org/docs/)
@@ -252,7 +252,7 @@ resource "aws_security_group" "example" {
 
 ---
 
-## 🔗 Useful Resources
+##  Useful Resources
 
 * [Official Website](https://opentofu.org)
 * [Get Started](https://opentofu.org/docs/)
@@ -262,7 +262,7 @@ resource "aws_security_group" "example" {
 
 ---
 
-## 🙌 Final Words
+##  Final Words
 
 OpenTofu is the future of open and community-led Infrastructure as Code. It's an excellent alternative to Terraform, especially for learners, educators, and enterprise users who want full control, transparency, and collaboration.
 
